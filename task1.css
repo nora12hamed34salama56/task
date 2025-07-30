@@ -7,8 +7,6 @@
     box-sizing: border-box;
     padding: 10% 5% 15% 5%;
     margin: 25px 0px 25px 25px;
-    flex-direction: column;
-      justify-content: center;
       text-align: center;
     border-radius: 1% 0% 0% 1%;
     
@@ -29,7 +27,7 @@ body{
      font-family: Arial, sans-serif;
       display: flex;
   justify-content: center;
-  align-items: center;
+ 
 }
 #div2-style{
     width: 40%;
@@ -45,7 +43,6 @@ body{
 }
  #div2-style  h1 {
       margin-bottom: 10px;
-       justify-content: center;
       text-align: center;
     }
 
